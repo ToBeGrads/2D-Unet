@@ -22,7 +22,6 @@ pip install -r requirements.txt
 - [File-by-File Breakdown](#file-by-file-breakdown)
 - [Output Directories](#output-directories)
 - [Training Workflow](#training-workflow)
-- [Key Concepts](#key-concepts)
 
 ---
 
