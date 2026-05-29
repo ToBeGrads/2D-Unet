@@ -1,5 +1,5 @@
 train2DUnet.ipynb
-seg_cv_results/
+seg_cv_results/*
 !seg_cv_results/results.csv
 !seg_cv_results/results.json
 !seg_cv_results/validation_benchmark_results.csv
@@ -9,7 +9,7 @@ Cropped_Dataset/
 Cropped_seg_final_training/
 seg_cv_results-old/
 seg_grid_search/
-seg_grid_searchNewLosses/
+seg_grid_searchNewLosses/*
 !seg_grid_searchNewLosses/grid_search_3d_summary.csv
 !seg_grid_searchNewLosses/grid_search_summary.csv
 !seg_grid_searchNewLosses/Sorting_grid_search_results.ipynb

@@ -1,0 +1,9 @@
+Config_Name,Mean_Test_STN,Std_Test_STN,Mean_Test_RN,Std_Test_RN,Avg_Train_Time_Per_Epoch(s),Avg_Val_Time_Per_Epoch(s),Avg_Test_Inference_Time(s)
+Config1_f32_drop0.2_L20.0001_annTrue_clipTrue,0.8228,0.0076,0.8497,0.0015,1.48,0.21,0.2580
+Config2_f64_drop0.4_L20.01_annTrue_clipTrue,0.8246,0.0084,0.8399,0.0090,2.82,0.25,0.2875
+Config1_f32_drop0.2_L20.0001_annTrue_clipFalse,0.8166,0.0068,0.8266,0.0161,1.49,0.23,0.2612
+Config2_f64_drop0.4_L20.01_annTrue_clipFalse,0.8190,0.0086,0.8372,0.0073,2.82,0.26,0.3081
+Config1_f32_drop0.2_L20.0001_annFalse_clipTrue,0.7728,0.0179,0.8202,0.0099,11.21,0.53,0.5325
+Config2_f64_drop0.4_L20.01_annFalse_clipTrue,0.7462,0.0100,0.8164,0.0243,23.39,0.86,0.8494
+Config1_f32_drop0.2_L20.0001_annFalse_clipFalse,0.7595,0.0104,0.8386,0.0088,12.04,0.79,0.8496
+Config2_f64_drop0.4_L20.01_annFalse_clipFalse,0.7524,0.0122,0.8294,0.0185,23.28,0.85,0.8499
