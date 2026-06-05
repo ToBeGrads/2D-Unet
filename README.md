@@ -362,7 +362,7 @@ seg_grid_searchNewLosses/
 └── grid_search_summary.json    # ALL 2D slices results in JSON format
 
 ```
-**The full folder is available on Hugging Face: [2D-Unet_seg_grid_searchNewLosses](https://huggingface.co/ToBeGrad/2D-Unet_seg_grid_searchNewLosses/tree/main)
+**The full folder is available on Hugging Face: [2D-Unet_seg_grid_searchNewLosses](https://huggingface.co/ToBeGrad/2D-Unet_seg_grid_searchNewLosses/tree/main)**
 ---
 
 
@@ -386,7 +386,7 @@ seg_cv_results/
 │
 └── cv_summary.json             # Mean ± std metrics across all folds
 ```
-**The full folder is available on Hugging Face: [2D-Unet_seg_cv_results](https://huggingface.co/ToBeGrad/2D-Unet_seg_cv_results/tree/main)
+**The full folder is available on Hugging Face: [2D-Unet_seg_cv_results](https://huggingface.co/ToBeGrad/2D-Unet_seg_cv_results/tree/main)**
 ---
 
 ## Training Workflow
